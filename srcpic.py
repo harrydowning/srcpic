@@ -3,7 +3,7 @@ from PIL import Image
 from docopt import docopt
 
 _name = 'srcpic'
-_version = '0.0.1'
+_version = '0.0.2'
 _cli = f"""{_name} Create a source code picture.
 
 Usage:
