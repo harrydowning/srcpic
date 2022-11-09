@@ -1,2 +1,2 @@
 # srcpic
-Create a source code picture.
+A command line tool for creating source code pictures.
